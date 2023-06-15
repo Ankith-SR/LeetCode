@@ -5,10 +5,10 @@ public:
         int j = 0;
         for(i = 0; i<t.size();i++){
             if(s[j] == t[i]){
-                j++;
+                j=j+1;
             }
         }
-        if(j>=s.size()){
+        if(j==s.size()){
             return true;
         }
         return false;
