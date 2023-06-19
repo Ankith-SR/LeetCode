@@ -2,16 +2,16 @@ class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
         int n = arr.size();
-        int max = arr[n-1];
+        int maxy = arr[n-1];
         arr[n-1] = -1;
         for(int i = n-2; i >= 0; i--){
                 int temp = arr[i];
-                if(max<temp){
-                    arr[i] = max;
-                    max = temp;
+                if(maxy<temp){
+                    arr[i] = maxy;
+                    maxy = temp;
                 }
                 else{
-                    arr[i] = max;
+                    arr[i] = maxy;
             }
         }
         return arr;
