@@ -3,15 +3,15 @@ public:
     void rotate(vector<int>& nums, int k) {
         vector<int> ans;
         int n = nums.size();
-        int tem = k%n;
+        int t = k%n;
         for(int i = n-1; i>=0; i--){
-            if(tem != 0){
+            if(t != 0){
                 ans.push_back(nums[i]);
-                tem--;
+                t--;
             }
         }
         reverse(ans.begin(),ans.end());
-        for(int i = 0; i<n-tem; i++){
+        for(int i = 0; i<n-t; i++){
             ans.push_back(nums[i]);
         }
         for(int i = 0; i<n; i++){
