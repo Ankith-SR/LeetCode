@@ -8,6 +8,7 @@ public:
         for(auto num : nums2){
             ans.push_back(num);
         }
+        int i=0,j=0;
         sort(ans.begin(),ans.end());
         int len = ans.size();
         if(len%2 == 1){
