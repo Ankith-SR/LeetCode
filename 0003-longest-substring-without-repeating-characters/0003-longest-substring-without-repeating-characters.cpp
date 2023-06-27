@@ -3,7 +3,7 @@ public:
     int lengthOfLongestSubstring(string s) {
         unordered_map<char, int> store;
         int ans = 0;
-        int res = 0;
+        int hmm = 0;
         for(int i = 0; i<s.size(); i++){
             if(store.count(s[i])==0){
                 ans+=1;
@@ -18,10 +18,10 @@ public:
                 }
             }
             store[s[i]] = i+1;
-            if(ans > res){
-                res = ans;
+            if(ans > hmm){
+                hmm = ans;
             }
         }
-        return res;
+        return hmm;
     }
 };
