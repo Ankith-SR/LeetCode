@@ -5,29 +5,25 @@ public:
         ListNode* temp = head;
         
         while (temp != NULL) {
-            temp = temp->next;
             length++;
+            temp = temp->next;
         }
         
-        int n = length - k;
+        int n = length - k + 1;
+        ListNode* one = head;
+        ListNode* two = head;
         
-        ListNode* ans = new ListNode();
-        ans->next = head;
-        ListNode* one = ans;
-        ListNode* two = ans;
-        
-        while (k) {
+        while (k > 1) { 
             one = one->next;
             k--;
         }
-        
-        while (n) {
+        while (n > 1) { 
             two = two->next;
             n--;
         }
-        
-        swap(two->next->val, one->val); 
-        
-        return ans->next;
+        swap(two->val, one->val); 
+        return head;
     }
 };
+
+
