@@ -4,13 +4,7 @@ public:
         if(!head){
             return NULL;
         }
-        int length = 0;
-        ListNode* temp = head;
-        while(temp != NULL){
-            temp = temp->next;
-            length++;
-        }
-        if(length <= 1){
+        if(head->next == NULL){
             return NULL;
         }
         ListNode* fast = head->next->next;
