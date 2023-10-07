@@ -42,3 +42,7 @@ public:
         return ans;
     }
 };
+
+
+
+//Not fare \U0001f62d\U0001f622
