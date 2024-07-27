@@ -23,10 +23,12 @@ Solved LeetCode problems in C++
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
