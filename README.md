@@ -10,6 +10,7 @@ Solved LeetCode problems in C++
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +59,12 @@ Solved LeetCode problems in C++
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Ankith-SR/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
