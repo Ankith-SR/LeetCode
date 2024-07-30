@@ -7,6 +7,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -55,6 +56,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankith-SR/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -70,4 +72,12 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
