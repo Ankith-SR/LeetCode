@@ -10,6 +10,7 @@ Solved LeetCode problems in C++
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
