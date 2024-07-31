@@ -8,6 +8,7 @@ Solved LeetCode problems in C++
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -60,6 +61,7 @@ Solved LeetCode problems in C++
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankith-SR/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Solved LeetCode problems in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
