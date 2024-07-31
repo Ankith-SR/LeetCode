@@ -12,6 +12,7 @@ Solved LeetCode problems in C++
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -44,6 +45,7 @@ Solved LeetCode problems in C++
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -55,10 +57,12 @@ Solved LeetCode problems in C++
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankith-SR/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/Ankith-SR/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Sliding Window
 |  |
 | ------- |
