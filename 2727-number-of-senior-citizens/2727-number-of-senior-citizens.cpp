@@ -4,7 +4,6 @@ public:
         int cont=0;
         for(auto it: details){
             int num=(it[11]-'0')*10+(it[12]-'0');
-            cout<<num<<endl;
             if(num>60){
                 cont++;
             }
