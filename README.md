@@ -8,6 +8,7 @@ Solved LeetCode problems in C++
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -29,6 +30,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1033-broken-calculator](https://github.com/Ankith-SR/LeetCode/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -56,6 +58,7 @@ Solved LeetCode problems in C++
 | [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -81,6 +84,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -136,4 +140,8 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
