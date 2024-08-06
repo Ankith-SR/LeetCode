@@ -5,21 +5,13 @@ public:
         for(auto c : word){
             arr[c-'a']++;
         }
-        sort(arr.begin(), arr.end());
+        sort(arr.rbegin(), arr.rend());
         int ans = 0;
-        for(int i = 25; i >= 0; i--){
-            if(i > 17){
-                ans += arr[i];
+        for(int i = 0; i < 26; i++){
+            if(arr[i] == 0){
+                break;
             }
-            else if(i > 9){
-                ans += arr[i] * 2;
-            }
-            else if(i > 1){
-                ans += arr[i] * 3;
-            }
-            else{
-                ans += arr[i] * 4;
-            }
+            ans += (i / 8+1) * arr[i];
         }
         return ans;
     }
