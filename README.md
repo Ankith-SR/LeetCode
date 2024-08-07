@@ -149,4 +149,16 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Ankith-SR/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Ankith-SR/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Ankith-SR/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
