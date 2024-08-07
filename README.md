@@ -38,6 +38,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [1033-broken-calculator](https://github.com/Ankith-SR/LeetCode/tree/master/1033-broken-calculator) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -75,6 +76,7 @@ Solved LeetCode problems in C++
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankith-SR/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -156,6 +158,7 @@ Solved LeetCode problems in C++
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Ankith-SR/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
