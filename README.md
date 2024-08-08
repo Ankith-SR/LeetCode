@@ -164,4 +164,16 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Ankith-SR/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
