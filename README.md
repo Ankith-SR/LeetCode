@@ -50,6 +50,7 @@ Solved LeetCode problems in C++
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -84,6 +85,7 @@ Solved LeetCode problems in C++
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankith-SR/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
