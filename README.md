@@ -8,6 +8,7 @@ Solved LeetCode problems in C++
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -49,6 +50,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -119,6 +121,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Ankith-SR/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -138,6 +141,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
