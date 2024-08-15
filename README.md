@@ -9,6 +9,7 @@ Solved LeetCode problems in C++
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Ankith-SR/LeetCode/tree/master/0890-lemonade-change) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -42,6 +43,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
+| [0890-lemonade-change](https://github.com/Ankith-SR/LeetCode/tree/master/0890-lemonade-change) |
 | [1033-broken-calculator](https://github.com/Ankith-SR/LeetCode/tree/master/1033-broken-calculator) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
