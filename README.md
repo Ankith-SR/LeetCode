@@ -188,16 +188,23 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
