@@ -24,7 +24,8 @@ public:
     }
     int goodNodes(TreeNode* root) {
         int ans = 0;
-        solve(root, root->val, ans);
+        int curr = root->val;
+        solve(root, curr, ans);
         return ans;
     }
 };
