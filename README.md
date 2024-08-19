@@ -187,18 +187,21 @@ Solved LeetCode problems in C++
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [0437-path-sum-iii](https://github.com/Ankith-SR/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [0437-path-sum-iii](https://github.com/Ankith-SR/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [0437-path-sum-iii](https://github.com/Ankith-SR/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -209,5 +212,6 @@ Solved LeetCode problems in C++
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
