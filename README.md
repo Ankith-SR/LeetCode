@@ -166,6 +166,7 @@ Solved LeetCode problems in C++
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
@@ -193,6 +194,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ankith-SR/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -202,6 +204,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ankith-SR/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -211,6 +214,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0100-same-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ankith-SR/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
