@@ -38,6 +38,7 @@ Solved LeetCode problems in C++
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -249,6 +250,7 @@ Solved LeetCode problems in C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Ankith-SR/LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Ankith-SR/LeetCode/tree/master/1054-complement-of-base-10-integer) |
@@ -269,4 +271,8 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
