@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> missingRolls(vector<int>& rolls, int mean, int n) {
+        
         vector<int> ans;
         int size = rolls.size();
         int sum = accumulate(rolls.begin(), rolls.end(), 0);
@@ -21,7 +22,7 @@ public:
                 ans.push_back(base);
             }
         }
-        
+
         return ans;
     }
 };
