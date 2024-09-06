@@ -37,6 +37,7 @@ Solved LeetCode problems in C++
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Solved LeetCode problems in C++
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankith-SR/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
