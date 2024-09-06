@@ -25,6 +25,7 @@ Solved LeetCode problems in C++
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankith-SR/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankith-SR/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -48,6 +49,7 @@ Solved LeetCode problems in C++
 | [1033-broken-calculator](https://github.com/Ankith-SR/LeetCode/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
+| [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/Ankith-SR/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ankith-SR/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -166,6 +168,7 @@ Solved LeetCode problems in C++
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankith-SR/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 ## Binary Search
