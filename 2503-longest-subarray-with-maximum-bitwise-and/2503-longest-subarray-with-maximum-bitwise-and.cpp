@@ -8,7 +8,8 @@ public:
             if (num == max_val) {
                 current_len++;
                 count = max(count, current_len);
-            } else {
+            } 
+            else{
                 current_len = 0;
             }
         }
