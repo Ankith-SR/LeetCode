@@ -11,6 +11,7 @@ Solved LeetCode problems in C++
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankith-SR/LeetCode/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -47,6 +48,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
+| [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -77,6 +79,7 @@ Solved LeetCode problems in C++
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ankith-SR/LeetCode/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -120,6 +123,7 @@ Solved LeetCode problems in C++
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Ankith-SR/LeetCode/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
