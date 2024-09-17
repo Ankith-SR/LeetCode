@@ -102,6 +102,7 @@ Solved LeetCode problems in C++
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankith-SR/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -126,6 +127,7 @@ Solved LeetCode problems in C++
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankith-SR/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -147,6 +149,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
