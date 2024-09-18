@@ -8,6 +8,7 @@ Solved LeetCode problems in C++
 | [0015-3sum](https://github.com/Ankith-SR/LeetCode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankith-SR/LeetCode/tree/master/0414-third-maximum-number) |
@@ -65,6 +66,7 @@ Solved LeetCode problems in C++
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankith-SR/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
@@ -76,6 +78,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ankith-SR/LeetCode/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ankith-SR/LeetCode/tree/master/0414-third-maximum-number) |
@@ -120,6 +123,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
