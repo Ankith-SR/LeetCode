@@ -109,6 +109,7 @@ Solved LeetCode problems in C++
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -133,6 +134,7 @@ Solved LeetCode problems in C++
 | [0214-shortest-palindrome](https://github.com/Ankith-SR/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Ankith-SR/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -160,6 +162,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -255,6 +258,7 @@ Solved LeetCode problems in C++
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Ankith-SR/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
