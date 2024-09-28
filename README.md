@@ -51,6 +51,7 @@ Solved LeetCode problems in C++
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -327,6 +328,7 @@ Solved LeetCode problems in C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankith-SR/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
