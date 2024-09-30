@@ -18,6 +18,7 @@ Solved LeetCode problems in C++
 | [0624-maximum-distance-in-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/Ankith-SR/LeetCode/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/Ankith-SR/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -246,6 +247,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/Ankith-SR/LeetCode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
@@ -395,4 +397,8 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ankith-SR/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
