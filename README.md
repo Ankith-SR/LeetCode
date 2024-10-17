@@ -43,6 +43,7 @@ Solved LeetCode problems in C++
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankith-SR/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankith-SR/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ankith-SR/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/Ankith-SR/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -86,6 +87,7 @@ Solved LeetCode problems in C++
 | [1304-longest-happy-string](https://github.com/Ankith-SR/LeetCode/tree/master/1304-longest-happy-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ankith-SR/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Ankith-SR/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -226,6 +228,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Ankith-SR/LeetCode/tree/master/1304-longest-happy-string) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ankith-SR/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
