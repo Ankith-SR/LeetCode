@@ -6,6 +6,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ankith-SR/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Ankith-SR/LeetCode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
@@ -118,6 +119,7 @@ Solved LeetCode problems in C++
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ankith-SR/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -283,6 +285,7 @@ Solved LeetCode problems in C++
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ankith-SR/LeetCode/tree/master/0036-valid-sudoku) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankith-SR/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Number Theory
