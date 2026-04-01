@@ -67,6 +67,7 @@ Solved LeetCode problems in C++
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -451,6 +452,7 @@ Solved LeetCode problems in C++
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankith-SR/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Rolling Hash
 |  |
@@ -482,4 +484,8 @@ Solved LeetCode problems in C++
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ankith-SR/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
