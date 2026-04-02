@@ -65,6 +65,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
@@ -177,6 +178,7 @@ Solved LeetCode problems in C++
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ankith-SR/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -267,6 +269,7 @@ Solved LeetCode problems in C++
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
@@ -404,6 +407,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankith-SR/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
