@@ -66,6 +66,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
@@ -180,6 +181,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Ankith-SR/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ankith-SR/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Ankith-SR/LeetCode/tree/master/0290-word-pattern) |
