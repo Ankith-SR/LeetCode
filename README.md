@@ -66,6 +66,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Ankith-SR/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
@@ -416,6 +417,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Ankith-SR/LeetCode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankith-SR/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
@@ -500,4 +502,8 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Ankith-SR/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
