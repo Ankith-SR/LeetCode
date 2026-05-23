@@ -33,6 +33,7 @@ Solved LeetCode problems in C++
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ankith-SR/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankith-SR/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankith-SR/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
