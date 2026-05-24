@@ -185,6 +185,7 @@ Solved LeetCode problems in C++
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Ankith-SR/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
