@@ -67,6 +67,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Ankith-SR/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -186,6 +187,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Ankith-SR/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -282,6 +284,7 @@ Solved LeetCode problems in C++
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
