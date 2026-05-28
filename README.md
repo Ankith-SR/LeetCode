@@ -75,6 +75,7 @@ Solved LeetCode problems in C++
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -202,6 +203,7 @@ Solved LeetCode problems in C++
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Ankith-SR/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -293,6 +295,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankith-SR/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
