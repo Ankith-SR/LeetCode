@@ -22,6 +22,7 @@ Solved LeetCode problems in C++
 | [0643-maximum-average-subarray-i](https://github.com/Ankith-SR/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Ankith-SR/LeetCode/tree/master/0739-daily-temperatures) |
+| [0888-fair-candy-swap](https://github.com/Ankith-SR/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-lemonade-change](https://github.com/Ankith-SR/LeetCode/tree/master/0890-lemonade-change) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -138,6 +139,7 @@ Solved LeetCode problems in C++
 | [0475-heaters](https://github.com/Ankith-SR/LeetCode/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0888-fair-candy-swap](https://github.com/Ankith-SR/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankith-SR/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/Ankith-SR/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -175,6 +177,7 @@ Solved LeetCode problems in C++
 | [0383-ransom-note](https://github.com/Ankith-SR/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
+| [0888-fair-candy-swap](https://github.com/Ankith-SR/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0906-walking-robot-simulation](https://github.com/Ankith-SR/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -328,6 +331,7 @@ Solved LeetCode problems in C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/Ankith-SR/LeetCode/tree/master/0475-heaters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0888-fair-candy-swap](https://github.com/Ankith-SR/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
