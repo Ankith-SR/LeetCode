@@ -47,6 +47,7 @@ Solved LeetCode problems in C++
 | [2126-destroying-asteroids](https://github.com/Ankith-SR/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankith-SR/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ankith-SR/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankith-SR/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -297,6 +298,7 @@ Solved LeetCode problems in C++
 | [1923-sentence-similarity-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankith-SR/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ankith-SR/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankith-SR/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/Ankith-SR/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -321,6 +323,7 @@ Solved LeetCode problems in C++
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankith-SR/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankith-SR/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ankith-SR/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ankith-SR/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
