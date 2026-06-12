@@ -78,6 +78,7 @@ Solved LeetCode problems in C++
 | [0029-divide-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ankith-SR/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
@@ -356,6 +357,7 @@ Solved LeetCode problems in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankith-SR/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1013-fibonacci-number) |
@@ -512,6 +514,7 @@ Solved LeetCode problems in C++
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
