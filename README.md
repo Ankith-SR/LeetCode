@@ -305,6 +305,7 @@ Solved LeetCode problems in C++
 | [1923-sentence-similarity-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankith-SR/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankith-SR/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankith-SR/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
@@ -377,6 +378,7 @@ Solved LeetCode problems in C++
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankith-SR/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ankith-SR/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
@@ -507,6 +509,7 @@ Solved LeetCode problems in C++
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Ankith-SR/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
