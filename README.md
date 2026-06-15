@@ -304,6 +304,7 @@ Solved LeetCode problems in C++
 | [1894-merge-strings-alternately](https://github.com/Ankith-SR/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankith-SR/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankith-SR/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -509,6 +510,7 @@ Solved LeetCode problems in C++
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Ankith-SR/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
