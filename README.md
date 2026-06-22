@@ -85,6 +85,7 @@ Solved LeetCode problems in C++
 | [0171-excel-sheet-column-number](https://github.com/Ankith-SR/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankith-SR/LeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Ankith-SR/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -373,6 +374,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Ankith-SR/LeetCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankith-SR/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1013-fibonacci-number) |
@@ -506,6 +508,7 @@ Solved LeetCode problems in C++
 | [0112-path-sum](https://github.com/Ankith-SR/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Ankith-SR/LeetCode/tree/master/0279-perfect-squares) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
