@@ -23,6 +23,7 @@ Solved LeetCode problems in C++
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankith-SR/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankith-SR/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Ankith-SR/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0888-fair-candy-swap](https://github.com/Ankith-SR/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-lemonade-change](https://github.com/Ankith-SR/LeetCode/tree/master/0890-lemonade-change) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -377,6 +378,7 @@ Solved LeetCode problems in C++
 | [0279-perfect-squares](https://github.com/Ankith-SR/LeetCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankith-SR/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
