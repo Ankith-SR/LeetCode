@@ -75,6 +75,7 @@ Solved LeetCode problems in C++
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3797-design-spreadsheet](https://github.com/Ankith-SR/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/Ankith-SR/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -221,6 +222,7 @@ Solved LeetCode problems in C++
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankith-SR/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3797-design-spreadsheet](https://github.com/Ankith-SR/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
@@ -378,6 +380,7 @@ Solved LeetCode problems in C++
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankith-SR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -528,6 +531,7 @@ Solved LeetCode problems in C++
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -603,8 +607,10 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
