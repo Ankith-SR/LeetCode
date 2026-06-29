@@ -46,6 +46,7 @@ Solved LeetCode problems in C++
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankith-SR/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1923-sentence-similarity-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankith-SR/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ankith-SR/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Ankith-SR/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -261,6 +262,7 @@ Solved LeetCode problems in C++
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ankith-SR/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankith-SR/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankith-SR/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankith-SR/LeetCode/tree/master/2128-reverse-prefix-of-word) |
