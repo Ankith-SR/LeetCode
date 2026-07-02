@@ -71,6 +71,7 @@ Solved LeetCode problems in C++
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ankith-SR/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankith-SR/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -346,6 +347,7 @@ Solved LeetCode problems in C++
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ankith-SR/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -424,6 +426,7 @@ Solved LeetCode problems in C++
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankith-SR/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Ankith-SR/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
@@ -537,6 +540,7 @@ Solved LeetCode problems in C++
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -629,4 +633,12 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
