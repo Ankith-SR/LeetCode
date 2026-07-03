@@ -77,6 +77,7 @@ Solved LeetCode problems in C++
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -348,6 +349,7 @@ Solved LeetCode problems in C++
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Solved LeetCode problems in C++
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
@@ -406,6 +409,7 @@ Solved LeetCode problems in C++
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ankith-SR/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankith-SR/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -637,8 +641,14 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
