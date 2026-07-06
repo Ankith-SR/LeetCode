@@ -35,6 +35,7 @@ Solved LeetCode problems in C++
 | [1046-max-consecutive-ones-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankith-SR/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Ankith-SR/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankith-SR/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankith-SR/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -170,6 +171,7 @@ Solved LeetCode problems in C++
 | [0976-largest-perimeter-triangle](https://github.com/Ankith-SR/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/Ankith-SR/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Ankith-SR/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
