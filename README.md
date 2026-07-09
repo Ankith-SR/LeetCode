@@ -80,6 +80,7 @@ Solved LeetCode problems in C++
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -235,6 +236,7 @@ Solved LeetCode problems in C++
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankith-SR/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3797-design-spreadsheet](https://github.com/Ankith-SR/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -392,6 +394,7 @@ Solved LeetCode problems in C++
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
@@ -649,10 +652,12 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
