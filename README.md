@@ -639,6 +639,7 @@ Solved LeetCode problems in C++
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ankith-SR/LeetCode/tree/master/1291-sequential-digits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ankith-SR/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankith-SR/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
