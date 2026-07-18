@@ -4,7 +4,7 @@ public:
         int small = INT_MAX;
         int big = INT_MIN;
 
-        for(auto & n : nums){
+        for(auto& n : nums){
             small = min(small, n);
             big = max(big, n);
         }
