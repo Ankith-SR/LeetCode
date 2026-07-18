@@ -53,6 +53,7 @@ Solved LeetCode problems in C++
 | [1923-sentence-similarity-iii](https://github.com/Ankith-SR/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankith-SR/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankith-SR/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ankith-SR/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Ankith-SR/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -120,6 +121,7 @@ Solved LeetCode problems in C++
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankith-SR/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankith-SR/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankith-SR/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ankith-SR/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2383-add-two-integers](https://github.com/Ankith-SR/LeetCode/tree/master/2383-add-two-integers) |
@@ -481,6 +483,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankith-SR/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankith-SR/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankith-SR/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankith-SR/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
