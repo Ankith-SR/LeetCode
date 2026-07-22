@@ -265,6 +265,7 @@ Solved LeetCode problems in C++
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Ankith-SR/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
@@ -357,6 +358,7 @@ Solved LeetCode problems in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ankith-SR/LeetCode/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/Ankith-SR/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankith-SR/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -445,6 +447,7 @@ Solved LeetCode problems in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ankith-SR/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Ankith-SR/LeetCode/tree/master/0279-perfect-squares) |
