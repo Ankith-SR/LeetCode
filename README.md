@@ -85,6 +85,7 @@ Solved LeetCode problems in C++
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -320,6 +321,7 @@ Solved LeetCode problems in C++
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankith-SR/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/Ankith-SR/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -423,6 +425,7 @@ Solved LeetCode problems in C++
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankith-SR/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -684,6 +687,7 @@ Solved LeetCode problems in C++
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
