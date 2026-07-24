@@ -87,6 +87,7 @@ Solved LeetCode problems in C++
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -137,6 +138,7 @@ Solved LeetCode problems in C++
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankith-SR/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ankith-SR/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankith-SR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankith-SR/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -594,6 +596,7 @@ Solved LeetCode problems in C++
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ankith-SR/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankith-SR/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
@@ -677,6 +680,7 @@ Solved LeetCode problems in C++
 | [1291-sequential-digits](https://github.com/Ankith-SR/LeetCode/tree/master/1291-sequential-digits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ankith-SR/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankith-SR/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
