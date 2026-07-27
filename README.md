@@ -41,6 +41,7 @@ Solved LeetCode problems in C++
 | [1301-number-of-paths-with-max-score](https://github.com/Ankith-SR/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankith-SR/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ankith-SR/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -199,6 +200,7 @@ Solved LeetCode problems in C++
 | [1256-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Ankith-SR/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ankith-SR/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ankith-SR/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -395,6 +397,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Ankith-SR/LeetCode/tree/master/1304-longest-happy-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ankith-SR/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Ankith-SR/LeetCode/tree/master/3226-minimum-number-game) |
