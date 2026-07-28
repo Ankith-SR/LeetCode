@@ -218,6 +218,7 @@ Solved LeetCode problems in C++
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ankith-SR/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankith-SR/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -333,6 +334,7 @@ Solved LeetCode problems in C++
 | [3379-score-of-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankith-SR/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankith-SR/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/Ankith-SR/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -702,6 +704,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankith-SR/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
 |  |
 | ------- |
