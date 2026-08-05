@@ -582,6 +582,7 @@ Solved LeetCode problems in C++
 | [0904-leaf-similar-trees](https://github.com/Ankith-SR/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Ankith-SR/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ankith-SR/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -638,6 +639,7 @@ Solved LeetCode problems in C++
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ankith-SR/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ankith-SR/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -740,6 +742,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankith-SR/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ankith-SR/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
