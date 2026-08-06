@@ -141,6 +141,7 @@ Solved LeetCode problems in C++
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankith-SR/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankith-SR/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankith-SR/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ankith-SR/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankith-SR/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -707,6 +708,7 @@ Solved LeetCode problems in C++
 | [1291-sequential-digits](https://github.com/Ankith-SR/LeetCode/tree/master/1291-sequential-digits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ankith-SR/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ankith-SR/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankith-SR/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
