@@ -184,6 +184,7 @@ Solved LeetCode problems in C++
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Ankith-SR/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankith-SR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -345,6 +346,7 @@ Solved LeetCode problems in C++
 | [3194-find-words-containing-character](https://github.com/Ankith-SR/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Ankith-SR/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankith-SR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3379-score-of-a-string](https://github.com/Ankith-SR/LeetCode/tree/master/3379-score-of-a-string) |
@@ -410,6 +412,7 @@ Solved LeetCode problems in C++
 | [2634-minimum-common-value](https://github.com/Ankith-SR/LeetCode/tree/master/2634-minimum-common-value) |
 | [2938-separate-black-and-white-balls](https://github.com/Ankith-SR/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 | [3195-separate-black-and-white-balls](https://github.com/Ankith-SR/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankith-SR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -493,6 +496,7 @@ Solved LeetCode problems in C++
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ankith-SR/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankith-SR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankith-SR/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ankith-SR/LeetCode/tree/master/3620-network-recovery-pathways) |
