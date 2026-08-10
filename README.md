@@ -129,6 +129,7 @@ Solved LeetCode problems in C++
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankith-SR/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankith-SR/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankith-SR/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Ankith-SR/LeetCode/tree/master/2155-find-missing-observations) |
@@ -497,6 +498,7 @@ Solved LeetCode problems in C++
 | [1137-n-th-tribonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Ankith-SR/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankith-SR/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ankith-SR/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -728,6 +730,7 @@ Solved LeetCode problems in C++
 | ------- |
 | [0292-nim-game](https://github.com/Ankith-SR/LeetCode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Ankith-SR/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -780,8 +783,18 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankith-SR/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankith-SR/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
