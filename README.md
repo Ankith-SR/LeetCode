@@ -65,6 +65,7 @@ Solved LeetCode problems in C++
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankith-SR/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankith-SR/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankith-SR/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ankith-SR/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -341,6 +342,7 @@ Solved LeetCode problems in C++
 | [2128-reverse-prefix-of-word](https://github.com/Ankith-SR/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ankith-SR/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankith-SR/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ankith-SR/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2727-number-of-senior-citizens](https://github.com/Ankith-SR/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ankith-SR/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -750,6 +752,7 @@ Solved LeetCode problems in C++
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankith-SR/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankith-SR/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -803,4 +806,8 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankith-SR/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
