@@ -91,6 +91,7 @@ Solved LeetCode problems in C++
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankith-SR/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ankith-SR/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ankith-SR/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankith-SR/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -294,6 +295,7 @@ Solved LeetCode problems in C++
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankith-SR/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankith-SR/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankith-SR/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ankith-SR/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankith-SR/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankith-SR/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
