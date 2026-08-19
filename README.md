@@ -41,6 +41,7 @@ Solved LeetCode problems in C++
 | [1288-remove-covered-intervals](https://github.com/Ankith-SR/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankith-SR/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Ankith-SR/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankith-SR/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -183,6 +184,7 @@ Solved LeetCode problems in C++
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankith-SR/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankith-SR/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-longest-happy-string](https://github.com/Ankith-SR/LeetCode/tree/master/1304-longest-happy-string) |
+| [1386-cinema-seat-allocation](https://github.com/Ankith-SR/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ankith-SR/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankith-SR/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankith-SR/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -274,6 +276,7 @@ Solved LeetCode problems in C++
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ankith-SR/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankith-SR/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankith-SR/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Ankith-SR/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankith-SR/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ankith-SR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ankith-SR/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -649,6 +652,7 @@ Solved LeetCode problems in C++
 | [0389-find-the-difference](https://github.com/Ankith-SR/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Ankith-SR/LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Ankith-SR/LeetCode/tree/master/1054-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/Ankith-SR/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankith-SR/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankith-SR/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
