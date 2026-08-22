@@ -162,6 +162,7 @@ Solved LeetCode problems in C++
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ankith-SR/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankith-SR/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankith-SR/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankith-SR/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankith-SR/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
