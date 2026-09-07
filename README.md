@@ -342,6 +342,7 @@ Solved LeetCode problems in C++
 | [0649-dota2-senate](https://github.com/Ankith-SR/LeetCode/tree/master/0649-dota2-senate) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankith-SR/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankith-SR/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankith-SR/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ankith-SR/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -528,6 +529,7 @@ Solved LeetCode problems in C++
 | [0650-2-keys-keyboard](https://github.com/Ankith-SR/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ankith-SR/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/Ankith-SR/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankith-SR/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Ankith-SR/LeetCode/tree/master/1140-stone-game-ii) |
