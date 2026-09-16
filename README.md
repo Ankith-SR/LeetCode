@@ -144,6 +144,7 @@ Solved LeetCode problems in C++
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankith-SR/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/Ankith-SR/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ankith-SR/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankith-SR/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1642-water-bottles](https://github.com/Ankith-SR/LeetCode/tree/master/1642-water-bottles) |
 | [1872-stone-game-viii](https://github.com/Ankith-SR/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankith-SR/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -511,6 +512,7 @@ Solved LeetCode problems in C++
 | [1140-stone-game-ii](https://github.com/Ankith-SR/LeetCode/tree/master/1140-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankith-SR/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankith-SR/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankith-SR/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ankith-SR/LeetCode/tree/master/1872-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankith-SR/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankith-SR/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -539,6 +541,7 @@ Solved LeetCode problems in C++
 | [1563-stone-game-v](https://github.com/Ankith-SR/LeetCode/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ankith-SR/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankith-SR/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankith-SR/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ankith-SR/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/Ankith-SR/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankith-SR/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -828,6 +831,7 @@ Solved LeetCode problems in C++
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankith-SR/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankith-SR/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankith-SR/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Minimax
