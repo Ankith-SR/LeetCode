@@ -324,6 +324,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Ankith-SR/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ankith-SR/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ankith-SR/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankith-SR/LeetCode/tree/master/0067-add-binary) |
@@ -528,6 +529,7 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankith-SR/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Ankith-SR/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ankith-SR/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ankith-SR/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Ankith-SR/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -557,6 +559,7 @@ Solved LeetCode problems in C++
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankith-SR/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankith-SR/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankith-SR/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Ankith-SR/LeetCode/tree/master/0739-daily-temperatures) |
@@ -866,4 +869,8 @@ Solved LeetCode problems in C++
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ankith-SR/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankith-SR/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
